@@ -2,7 +2,7 @@
 
 #Assignment - Operation Systems
 
-Memory Allocation Simulation using Java
+Simple Memory Allocation Simulation using Java
 
 
 Implement a malloc like memory allocation library using the Java programming language.
