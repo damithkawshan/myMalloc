@@ -15,4 +15,4 @@ MyMalloc() allocates memory only from the previously mentioned array of 25000 by
 All the data structures that are required to manage the memory must also reside within the same array.
 
 
-#*LearningPurposeOnly
+#LearningPurposeOnly
