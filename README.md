@@ -1,4 +1,4 @@
-# myMalloc
+# myMalloc - Memory Allocation Simulation
 
 #Assignment - Operation Systems
 
