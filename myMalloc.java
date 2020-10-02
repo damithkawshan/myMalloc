@@ -25,7 +25,7 @@ public class myMalloc{
         memory[0] = -1;
 
         String bin = String.format("%21s", Integer.toBinaryString(size-4)).replace(' ', '0');
-        //System.out.println(bin);
+       
         String fs = bin.substring(0,7);
         String ss = bin.substring(7,14);
         String ts = bin.substring(14,21);
@@ -76,7 +76,7 @@ public class myMalloc{
      		
             
         }
-        //View Memory in bytes
+        //View Memory in Bytes
         //Comment Out only to display starting & ending index
        showMemory();
 
